@@ -25,6 +25,7 @@ Console.WriteLine("C# style")
 echo("Echo")
 puts("Puts")
 fmt.Println("Go style")
+```
 
 ## Disclaimer
 
